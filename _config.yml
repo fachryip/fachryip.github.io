@@ -18,10 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Fachry's Portofolio
+title: Fachry Game Developer Portofolio
 email: fachry.ip@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A Game Developer
+author: Fachry Ichsan Putra
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: singaapi
@@ -29,10 +30,13 @@ github_username:  fachryip
 
 # Build settings
 # theme: minima
-remote_theme: pages-themes/merlot@v0.2.0
+# remote_theme: pages-themes/merlot@v0.2.0
+remote_theme: raviriley/agency-jekyll-theme
 plugins:
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-remote-theme
+
+markdown: kramdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
