@@ -11,68 +11,103 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
+    title: Welcome to my Portofolio!
     text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    button: My Projects
+    buttonlink: "#portfolio"
 
-  services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
-    list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+  # services:
+  #   title: "Services"
+  #   text: "Lorem ipsum"
+  #   section: services
+  #   list:
+  #     - title: "E-Commerce"
+  #       desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+  #       icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+  #     - title: "Responsive Design"
+  #       desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+  #       icon: fas fa-laptop
+  #     - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+  #       desc: "Your description here, full **Markdown** support"
+  #       icon: fab fa-markdown
+
+  about:
+    title: "About Me"
+    text: "A brief about me and my skills"
+    body: "7 years+ working as game developer. Expert at using Unity and C#. Mostly developing game in Android Platform including mobile and also TV devices. Proficient at optimizing game for low end devices. Competent using plain javascript to create function and mechanic for server side. Already developed several multiplayer games with different network communication such as Netcode for Gameobject, Websocket and also WebRTC. Experience creating AI for NPC using Behaviour AI."
+    section: about
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Every game project that I developed throughout my professional career."
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "My professional game developer career"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Neon Jump"
+        year: "2016"
+        desc: "First unity game created when still in university. Android mobile puzzle platformer where there is a dot (noktah) that move automatically. As a player you only control the jump. Avoid obstacle and go to designated marker to win the game. Nominated as most innovative game in IN.GAME 2016"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Esports King"
+        year: "2017-2018"
+        desc: "Created with other programmers in Agate using Unity. Responsible for creating AI for NPC using behaviour AI. Also programming UI and other menu elements in the game"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Glory or Destruction"
+        year: "June 2019"
+        desc: "Created using javascript library melonjs and their editor that still in development. Responsible for almost all mechanic and UI in the game. Targeted for facebook games instant."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Tepok Nyamuk"
+        year: "September 2019"
+        desc: "Again using Unity and C# to create mobile android games. There is save mechanic into server and get data for custom leaderboard. Also add AI for enemy. Incorporate Unity Ads and Analytics. Lastly upload the game with abb format to google play."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
-
-  about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
+      - title: "Idle Fruit Legacy"
+        year: "December 2019"
+        desc: "Target platform and engine the same with Tepok Nyamuk. Created idle time mechanic for upgrade. Incorporated rewarded ads to bypass idle time and instant upgrade."
+        image: assets/img/timeline/4.jpg
+        alt:
+      - title: "Neon Jump"
+        year: "April 2020"
+        desc: "3d endless runner with using jump to avoid obstacle. Learn to optimize the game with same effect but high performance. Release for mobile and also low end android tv"
+        image: assets/img/timeline/4.jpg
+        alt:
+      - title: "Food Express"
+        year: "July 2020"
+        desc: "3d games like dinner dash but using swipe to control the waitress. Implement AI for enemy obstacle. Mechanic powerup like freeze all enemy, double coin, and slow time. Lastly there is a tutorial for first time player. Release for mobile and android tv"
+        image: assets/img/timeline/4.jpg
+        alt:
+      - title: "Trivia"
+        year: "December 2020"
+        desc: "unity 2d webgl trivia games. The question text from API. NPC reaction will be different according to our answer"
+        image: assets/img/timeline/4.jpg
+        alt:
+      - title: "Monkeyland Battleground"
+        year: "February 2022"
+        desc: "3 vs 3 online multiplayer android games using unity netcode for gameobjects and litenetlib for network transport. Created using client-server relationship. Coordinate with other division to host the server side with company infrastructure. Optimizing the server-side performance so more room can be created with the same spec. Optimizing to reduce bandwidth usage. Using active ragdoll for player movement and animation. Player can reconnect into the same room when disconnected."
+        image: assets/img/timeline/4.jpg
+        alt:
+      - title: "Perfect Position"
+        year: "December 2022"
+        desc: "like moving out but the furniture is moving in according into the position. Local coop 2-4 players. Integrated with AyoMain app for data exchange between player. Core mechanic is grab and release furniture. Using unity physics for animation and collision. Using unity navmesh to determine valid location for the release. Optimizing again because targeted for low end tv devices (OpenGL ES 2). Artificial Intelligence for enemy behaviour. Can attack enemy and make them stunned."
+        image: assets/img/timeline/4.jpg
+        alt:
+      - title: "Firefighter Gank"
+        year: "Present"
+        desc: "2d graphic in 3d world like trash sailor but it’s in fire truck. Local coop 2-4 players. Using AI for enemy bandit behaviour. Many mechanics like repair truck, steer movement, using water jet to shoot water and extinguish fire, pump water and fill the water jet, grab wrench to attack bandit that jump into truck. Optimizing for low end tv devices."
+        image: assets/img/timeline/4.jpg
+        alt:
+    end: "Be Part <br> of My <br> Projects!"
 
   clients:
     section: clients
