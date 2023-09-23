@@ -23,7 +23,7 @@ Our own original timeline is 6 month to build this game. Can you believe it? 6 m
 
 {:.list-inline}
 
-- Date: Jul - Dec 2020
+- Date: Jan 2021 - Feb 2022
 - Associated with: Polytron Indonesia
 - Platform: Mobile
 - Engine: Unity
