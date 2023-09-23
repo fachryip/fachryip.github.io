@@ -21,7 +21,8 @@ Also this time, we introduce Nagih Coin. Nagih Coin can be used to buy item from
 
 {:.list-inline}
 
-- Date: Jan - Apr 2019
+- Date: Jan - Apr 2020
 - Associated with: Polytron Indonesia
 - Platform: Mobile, TV
 - Engine: Unity
+- PlayStore: https://play.google.com/store/apps/details?id=com.hit.neonjump

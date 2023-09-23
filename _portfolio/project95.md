@@ -23,3 +23,4 @@ There is also a laboratory, to upgrade money earned for each type of fruit. Ther
 - Associated with: Polytron Indonesia
 - Platform: Mobile
 - Engine: Unity
+- PlayStore: https://play.google.com/store/apps/details?id=com.hit.idlefruitlegacy
