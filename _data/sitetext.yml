@@ -109,23 +109,24 @@ en: &DEFAULT_EN
         alt:
     end: "Be Part <br> of My <br> Projects!"
 
-  clients:
-    section: clients
+  skills:
+    title: Skills
+    section: skills
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+      - title: "unity"
+        url: https://unity.com/
+        logo: assets/img/skills/unity-logo.png
+      - title: "csharp"
+        url: https://learn.microsoft.com/en-us/dotnet/csharp/
+        logo: assets/img/skills/csharp-logo.png
+      - title: "javascript"
+        url: https://www.javascript.com/
+        logo: assets/img/skills/javascript-logo.png
+      - title: "Android"
+        url: https://www.android.com/
+        logo: assets/img/skills/android-logo.png
 
   team:
     title: "OUR AMAZING TEAM"
