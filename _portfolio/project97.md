@@ -1,13 +1,13 @@
 ---
 title: Glory or Destruction
 subtitle: 
-image: assets/img/portfolio/03-full.jpg
+image: assets/img/portfolio/god-full.png
 alt: 
 
 caption:
   title: Glory or Destruction
   subtitle: 
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  thumbnail: assets/img/portfolio/god-icon.jpeg
 ---
 
 This game is created when I was in Melon Gaming. Now I'm a full fledge Game Developer. Right now I'm using javascript with melonjs library to create web games. I read some books about javascript and do training in melonjs for 1 month. After that I develop this game with 2 other people. Melonjs has an editor, but the editor itself is still in developed at the time. So I frequently use the good old plain javascript. 

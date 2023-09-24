@@ -1,13 +1,13 @@
 ---
 title: Neon Jump
 subtitle: 
-image: assets/img/portfolio/05-full.jpg
+image: assets/img/portfolio/neonjump-full.png
 alt: 
 
 caption:
   title: Neon Jump
   subtitle: 
-  thumbnail: assets/img/portfolio/05-thumbnail.jpg
+  thumbnail: assets/img/portfolio/neonjump-icon.png
 ---
 
 Now we move into 3D Game! Wohooo! After last two game in Polytron is in 2D, this time we, again, challenge ourself to a more difficult project. This is the time we will develop our game for android tv, especially Polytron TV. 

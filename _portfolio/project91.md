@@ -1,13 +1,13 @@
 ---
 title: Monkeyland Battleground
 subtitle: 
-image: assets/img/portfolio/05-full.jpg
+image: assets/img/portfolio/monkeyland-full.png
 alt: 
 
 caption:
   title: Monkeyland Battleground
   subtitle: 
-  thumbnail: assets/img/portfolio/05-thumbnail.jpg
+  thumbnail: assets/img/portfolio/monkeyland-icon.png
 ---
 
 At this time our team have 3 programmer and want to further challenge ourself. Come birth this game, Monkeyland Battleground. It is a competitive teamwork 3v3 online multiplayer for mobile android with active ragdoll. Let's break it down.

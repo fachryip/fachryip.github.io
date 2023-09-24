@@ -1,13 +1,13 @@
 ---
 title: Noktah
 subtitle: 
-image: assets/img/portfolio/01-full.jpg
+image: assets/img/portfolio/noktah-full.png
 alt:
 
 caption:
   title: Noktah
   subtitle: 
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: assets/img/portfolio/noktah-icon.png
 ---
 
 First unity game created when still in university. Me as a sole programmer and my other 2 friends wanted to create a game that can be show to other people. We also participate in a game contest called IN.GAME 2016 and nominated for most innovative game. 

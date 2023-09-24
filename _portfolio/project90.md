@@ -1,13 +1,13 @@
 ---
 title: Perfect Position
 subtitle: 
-image: assets/img/portfolio/05-full.jpg
+image: assets/img/portfolio/perfectposition-full.jpg
 alt: 
 
 caption:
   title: Perfect Position
   subtitle: 
-  thumbnail: assets/img/portfolio/05-thumbnail.jpg
+  thumbnail: assets/img/portfolio/perfectposition-icon.png
 ---
 
 Around this time Polytron want to create a local multiplayer that can be played in tv with handphone for controller. So Ayo Main is created. In Ayo Main, player can choose different game that Polytron created and play it directly in their TV. Our team responsible to create the game, and another team for backend server stuff. For now only Polytron TV can download Ayo Main app.

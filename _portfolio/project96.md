@@ -1,13 +1,13 @@
 ---
 title: Tepok Nyamuk
 subtitle: 
-image: assets/img/portfolio/04-full.jpg
+image: assets/img/portfolio/tepoknyamuk-full.png
 alt: 
 
 caption:
   title: Tepok Nyamuk
   subtitle: 
-  thumbnail: assets/img/portfolio/04-thumbnail.jpg
+  thumbnail: assets/img/portfolio/tepoknyamuk-icon.png
 ---
 
 This project created when I was in Polytron. Me myself as a sole programmer and 2 other people working on this. For a new team, this project aim to bring communication, teamwork and synergy and to test skill of each member. 

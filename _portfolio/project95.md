@@ -1,13 +1,13 @@
 ---
 title: Idle Fruit
 subtitle: 
-image: assets/img/portfolio/05-full.jpg
+image: assets/img/portfolio/idlefruit-full.png
 alt: 
 
 caption:
   title: Idle Fruit
   subtitle: 
-  thumbnail: assets/img/portfolio/05-thumbnail.jpg
+  thumbnail: assets/img/portfolio/idlefruit-icon.png
 ---
 
 After much success from the first game, we wanted to highlight the financial side or in another words how to get money from game. We decided to use ads and created an idle game. 

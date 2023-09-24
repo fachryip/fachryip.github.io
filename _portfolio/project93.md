@@ -1,13 +1,13 @@
 ---
 title: Food Express
 subtitle: 
-image: assets/img/portfolio/05-full.jpg
+image: assets/img/portfolio/foodexpress-full.png
 alt: 
 
 caption:
   title: Food Express
   subtitle: 
-  thumbnail: assets/img/portfolio/05-thumbnail.jpg
+  thumbnail: assets/img/portfolio/foodexpress-icon.png
 ---
 
 Fourth game in Polytron. Now we want to push for performance when depolying into tv device. We already learn some mistake from Neon Jump project and create best practice how to approach it. The most obvious one is no post processing, tv device especially low-end cannot handle it. Second limit vertices for each object so dynamic batching can kick in. In the docs the limit is 300 vertices, so artist have many things to adjust. Third use sprite atlas for UI so draw call is reduced. Finally use static batching for static object that didn't move. Altough dynamic batching is more optimize than static batching, but for big object that have many vertice that we cannot reduce anymore static batching does help reduce CPU usage.

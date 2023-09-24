@@ -1,13 +1,13 @@
 ---
 title: Esports King
 subtitle: 
-image: assets/img/portfolio/02-full.jpg
+image: assets/img/portfolio/esportking-full.png
 alt: 
 
 caption:
   title: Esports King
   subtitle: 
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  thumbnail: assets/img/portfolio/esportking-icon.jpeg
 ---
 
 This game is created when I was still a junior game programmer in Agate International with 2 other programmers. ESports King is divided into 2 section, House and Game. House is where you build your team, buy furniture, plan strategy, equip items, see quests and many more. Your team member itself  is visible in the House. Your team member will move automatically like the sims. They have needs, like hunger, sleep, etc and will move to furniture to relinquish their need or move random inside the House. My responsibility is in the House.
