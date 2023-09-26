@@ -181,6 +181,12 @@ en: &DEFAULT_EN
     subject: "Contact Form Submission"
     submit: "Send Message"
 
+  work:
+    title: "Need help?"
+    text: ""
+    body: "If you need a game programmer please do contact me via <a href=\"mailto:fachry.ip@gmail.com\">email</a> or you can invite me via <a href=\"https://www.upwork.com/freelancers/~01c7e96bcf3c669439\">upwork</a>. I will reply to you ASAP!"
+    section: work
+
   footer:
     legal: "Privacy Policy"
     social:

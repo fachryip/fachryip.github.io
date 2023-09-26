@@ -23,6 +23,8 @@ en: &DEFAULT_EN
     #   section: team
     - title: "Skills"
       section: skills
+    - title: "Contact Me"
+      section: work
     # - title: "Theme Source"
     #   url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
